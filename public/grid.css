@@ -8,21 +8,19 @@ height: 30px;
 }
 
 #grid_container {
-width: 600px;
-margin: auto;
-margin-bottom: 50px;
+text-align: center;
+width: 960px;
 }
 
 .grid_square {
-background-color: black;
+background-color: #006600;
+border: 3px solid black;
+height: 50px;
+width: 50px;
 float: left;
-border: 1px solid white;
 }
 
 .grid_square_lit {
-background-color: red;
+background-color: #FF6600;
 }
 
-.new_row {
-clear: both;
-}
