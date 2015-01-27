@@ -16,4 +16,5 @@ PLATFORMS
 
 DEPENDENCIES
   pg
+  rack
   sinatra
