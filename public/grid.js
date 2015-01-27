@@ -91,7 +91,7 @@ if (input >= 1 && input <= 20 ){
 
    }
    else{
-    alert("pick a # between 1 and 20")
+    alert("Please, pick a # between 1 and 20.")
    }
 });
 

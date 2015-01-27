@@ -9,7 +9,7 @@ height: 30px;
 
 #grid_container {
 text-align: center;
-width: 960px;
+margin: auto;
 }
 
 .grid_square {
@@ -24,3 +24,9 @@ float: left;
 background-color: #FF6600;
 }
 
+#high{
+    display: inline-block;
+    position: absolute;
+    bottom: 5;
+
+}
